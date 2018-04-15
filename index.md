@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+Welcome to Team AA's homepage! 
+
+## Background
 
 You can use the [editor on GitHub](https://github.com/AGodwin15/TeamAA.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
